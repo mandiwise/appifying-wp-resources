@@ -82,6 +82,7 @@
 ### Templating
 
 - [get_template_part()](http://codex.wordpress.org/Function_Reference/get_template_part) function reference
+- [Object-Oriented Programming in WordPress: Building the Plugin I](http://code.tutsplus.com/articles/object-oriented-programming-in-wordpress-building-the-plugin-i--cms-21083)
 
 **Back-end Templating**
 
@@ -108,7 +109,7 @@
 - [The HeartBeat API: Getting Started](http://code.tutsplus.com/tutorials/the-heartbeat-api-getting-started--wp-32446)
 - [wp_mail](http://codex.wordpress.org/Function_Reference/wp_mail) function reference
 - [wp_cron](http://codex.wordpress.org/Function_Reference/wp_cron) function reference
-- [wp_ajax](http://codex.wordpress.org/Plugin_API/Action_Reference/wp_ajax_(action) function reference
+- [AJAX in Plugins](http://codex.wordpress.org/AJAX_in_Plugins)
 - [Creating Tables with Plugins](http://codex.wordpress.org/Creating_Tables_with_Plugins)
 - [Posts 2 Posts plugin](https://wordpress.org/plugins/posts-to-posts/)
 - [Gravity Forms](http://www.gravityforms.com/)
